@@ -1,7 +1,6 @@
 # Active Scanning Techniques
 
-This repository is a collection of different techniques in order to find specific hosts to scan. The goal is to document the available techniques and
-improve the scanning for defenders.
+This repository is a collection of different techniques in order to find specific hosts (with IPv4 and IPv6 addresses) to scan. The goal is to document the available techniques and improve the scanning for defenders.
 
 ## Why this collection?
 
